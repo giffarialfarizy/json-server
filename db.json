@@ -1,7 +1,7 @@
 {
 	"produk_populer": [
 		{
-			"id": "fee76c23-9e3e-4f5f-9ef9-2d7033852a23",
+			"id": "1",
 			"toko": {
 				"id": "f05bd500-d294-4a57-8d81-2717f2695b00",
 				"pemilik": {
@@ -38,7 +38,7 @@
 			"terjual": 0
 		},
 		{
-			"id": "aad13788-00db-4f6a-8cdf-24bbd86f658f",
+			"id": "2",
 			"toko": {
 				"id": "0a4c5ca4-95bc-40b8-a4da-34babea9d6ff",
 				"pemilik": {
@@ -75,7 +75,7 @@
 			"terjual": 0
 		},
 		{
-			"id": "fee76c23-9e3e-4f5f-9ef9-2d7033852a23",
+			"id": "3",
 			"toko": {
 				"id": "f05bd500-d294-4a57-8d81-2717f2695b00",
 				"pemilik": {
@@ -112,7 +112,7 @@
 			"terjual": 0
 		},
 		{
-			"id": "aad13788-00db-4f6a-8cdf-24bbd86f658f",
+			"id": "4",
 			"toko": {
 				"id": "0a4c5ca4-95bc-40b8-a4da-34babea9d6ff",
 				"pemilik": {
@@ -149,7 +149,7 @@
 			"terjual": 0
 		},
 		{
-			"id": "fee76c23-9e3e-4f5f-9ef9-2d7033852a23",
+			"id": "5",
 			"toko": {
 				"id": "f05bd500-d294-4a57-8d81-2717f2695b00",
 				"pemilik": {
@@ -186,7 +186,7 @@
 			"terjual": 0
 		},
 		{
-			"id": "aad13788-00db-4f6a-8cdf-24bbd86f658f",
+			"id": "6",
 			"toko": {
 				"id": "0a4c5ca4-95bc-40b8-a4da-34babea9d6ff",
 				"pemilik": {
@@ -225,7 +225,7 @@
 	],
 	"toko_populer": [
 		{
-			"id": "4e8b7b4d-22f2-49a7-81ef-48882ecef09c",
+			"id": "1",
 			"pemilik": {
 				"nama": "Muhammad Sun Haji",
 				"jenis_kelamin": null,
@@ -245,7 +245,7 @@
 			"official": false
 		},
 		{
-			"id": "a90d6fa8-6630-45de-a6dd-7d1f3070386f",
+			"id": "2",
 			"pemilik": {
 				"nama": "Sagaf Basry",
 				"jenis_kelamin": null,
