@@ -1,268 +1,270 @@
 {
-	"produk_populer": [
-		{
-			"id": "1",
-			"toko": {
-				"id": "f05bd500-d294-4a57-8d81-2717f2695b00",
-				"pemilik": {
-					"nama": "Esti Mulyaningtyas",
-					"jenis_kelamin": 2,
-					"foto": "",
-					"no_hp": "nomor HP 1",
-					"alamat": "Jl. Anjasmoro 30 \r\nOro Oro dowo \r\nKota Surabaya",
-					"kota": "eaaba388-4238-4502-bcce-35910b69d296",
-					"tgl_lahir": "17/05/1969",
-					"catatan": "Manager property"
+	"dashboard": {
+		"produk_populer": [
+			{
+				"id": "1",
+				"toko": {
+					"id": "f05bd500-d294-4a57-8d81-2717f2695b00",
+					"pemilik": {
+						"nama": "Esti Mulyaningtyas",
+						"jenis_kelamin": 2,
+						"foto": "",
+						"no_hp": "nomor HP 1",
+						"alamat": "Jl. Anjasmoro 30 \r\nOro Oro dowo \r\nKota Surabaya",
+						"kota": "eaaba388-4238-4502-bcce-35910b69d296",
+						"tgl_lahir": "17/05/1969",
+						"catatan": "Manager property"
+					},
+					"nama": "Gheashop",
+					"foto": "https://nos.wjv-1.neo.id/bazaraid/bazara/static/shop.png",
+					"deskripsi": "Menjual rumah d daerah Kepanjen Kab Surabaya",
+					"alamat": "32c8cf82-d927-4a85-9809-e30fd5617b55",
+					"verified": false,
+					"rating": "5.00",
+					"official": false
 				},
-				"nama": "Gheashop",
-				"foto": "https://nos.wjv-1.neo.id/bazaraid/bazara/static/shop.png",
-				"deskripsi": "Menjual rumah d daerah Kepanjen Kab Surabaya",
-				"alamat": "32c8cf82-d927-4a85-9809-e30fd5617b55",
-				"verified": false,
-				"rating": "5.00",
-				"official": false
+				"nama": "Vintage L L Beans Colorful Plaid Flanel shirt",
+				"foto1": "https://cdn-fsly.yottaa.net/5be1b3602bb0ac02725188eb/o~f_webp/v~4b.394.0.0/https://www.kingsize.com/dw/image/v2/BBKT_PRD/on/demandware.static/-/Sites-masterCatalog_KingSizeDirect/default/dwd6266c55/images/alternate/1179_13206_ma_0004.jpg?sw=556&sh=680&sm=fit",
+				"kategori": {
+					"id": "c7655be4-511e-4925-9176-730421e00789",
+					"nama": "Lainnya"
+				},
+				"harga": "340000",
+				"tersedia": 10,
+				"kondisi": "Baru",
+				"deskripsi": "Perum cempaka indah berada d dalam area keramaian d Kepanjen kabupaten Surabaya.\r\nKawasan sdh ramai penghuni",
+				"official": false,
+				"berat": "0.00",
+				"rating": null,
+				"terjual": 0
 			},
-			"nama": "Vintage L L Beans Colorful Plaid Flanel shirt",
-			"foto1": "https://cdn-fsly.yottaa.net/5be1b3602bb0ac02725188eb/o~f_webp/v~4b.394.0.0/https://www.kingsize.com/dw/image/v2/BBKT_PRD/on/demandware.static/-/Sites-masterCatalog_KingSizeDirect/default/dwd6266c55/images/alternate/1179_13206_ma_0004.jpg?sw=556&sh=680&sm=fit",
-			"kategori": {
-				"id": "c7655be4-511e-4925-9176-730421e00789",
-				"nama": "Lainnya"
+			{
+				"id": "2",
+				"toko": {
+					"id": "0a4c5ca4-95bc-40b8-a4da-34babea9d6ff",
+					"pemilik": {
+						"nama": "Ita Puspita",
+						"jenis_kelamin": null,
+						"foto": "",
+						"no_hp": "nomor HP 2",
+						"alamat": "Jl. Mulyodadi Gg. Kyai kasim! No 43A Jetak Lor\r\nDesa Mulyiagung Kec. dau Kab. Surabaya",
+						"kota": "eaaba388-4238-4502-bcce-35910b69d296",
+						"tgl_lahir": "04/05/1979",
+						"catatan": "Onlineshoper"
+					},
+					"nama": "Elo Tech",
+					"foto": "https://nos.wjv-1.neo.id/bazaraid/bazara/static/shop.png",
+					"deskripsi": "Tas",
+					"alamat": "02b22496-334b-4e64-a53b-8ede125f1974",
+					"verified": false,
+					"rating": "0.00",
+					"official": false
+				},
+				"nama": "Samsung Galaxy A52s 5G",
+				"foto1": "https://asset.kompas.com/crops/5YjcMGQPf9McNaeFGyma2ydO1eM=/67x0:1705x1092/750x500/data/photo/2021/08/03/6108dd819c980.jpg",
+				"kategori": {
+					"id": "c7655be4-511e-4925-9176-730421e00789",
+					"nama": "Lainnya"
+				},
+				"harga": "6349000",
+				"tersedia": 2,
+				"kondisi": "Baru",
+				"deskripsi": "Warna biru",
+				"official": false,
+				"berat": "1.00",
+				"rating": null,
+				"terjual": 0
 			},
-			"harga": "340000",
-			"tersedia": 10,
-			"kondisi": "Baru",
-			"deskripsi": "Perum cempaka indah berada d dalam area keramaian d Kepanjen kabupaten Surabaya.\r\nKawasan sdh ramai penghuni",
-			"official": false,
-			"berat": "0.00",
-			"rating": null,
-			"terjual": 0
-		},
-		{
-			"id": "2",
-			"toko": {
-				"id": "0a4c5ca4-95bc-40b8-a4da-34babea9d6ff",
+			{
+				"id": "3",
+				"toko": {
+					"id": "f05bd500-d294-4a57-8d81-2717f2695b00",
+					"pemilik": {
+						"nama": "Esti Mulyaningtyas",
+						"jenis_kelamin": 2,
+						"foto": "",
+						"no_hp": "nomor HP 1",
+						"alamat": "Jl. Anjasmoro 30 \r\nOro Oro dowo \r\nKota Surabaya",
+						"kota": "eaaba388-4238-4502-bcce-35910b69d296",
+						"tgl_lahir": "17/05/1969",
+						"catatan": "Manager property"
+					},
+					"nama": "Gheashop",
+					"foto": "https://nos.wjv-1.neo.id/bazaraid/bazara/static/shop.png",
+					"deskripsi": "Menjual rumah d daerah Kepanjen Kab Surabaya",
+					"alamat": "32c8cf82-d927-4a85-9809-e30fd5617b55",
+					"verified": false,
+					"rating": "5.00",
+					"official": false
+				},
+				"nama": "Vintage L L Beans Colorful Plaid Flanel shirt",
+				"foto1": "https://cdn-fsly.yottaa.net/5be1b3602bb0ac02725188eb/o~f_webp/v~4b.394.0.0/https://www.kingsize.com/dw/image/v2/BBKT_PRD/on/demandware.static/-/Sites-masterCatalog_KingSizeDirect/default/dwd6266c55/images/alternate/1179_13206_ma_0004.jpg?sw=556&sh=680&sm=fit",
+				"kategori": {
+					"id": "c7655be4-511e-4925-9176-730421e00789",
+					"nama": "Lainnya"
+				},
+				"harga": "340000",
+				"tersedia": 10,
+				"kondisi": "Baru",
+				"deskripsi": "Perum cempaka indah berada d dalam area keramaian d Kepanjen kabupaten Surabaya.\r\nKawasan sdh ramai penghuni",
+				"official": false,
+				"berat": "0.00",
+				"rating": null,
+				"terjual": 0
+			},
+			{
+				"id": "4",
+				"toko": {
+					"id": "0a4c5ca4-95bc-40b8-a4da-34babea9d6ff",
+					"pemilik": {
+						"nama": "Ita Puspita",
+						"jenis_kelamin": null,
+						"foto": "",
+						"no_hp": "nomor HP 2",
+						"alamat": "Jl. Mulyodadi Gg. Kyai kasim! No 43A Jetak Lor\r\nDesa Mulyiagung Kec. dau Kab. Surabaya",
+						"kota": "eaaba388-4238-4502-bcce-35910b69d296",
+						"tgl_lahir": "04/05/1979",
+						"catatan": "Onlineshoper"
+					},
+					"nama": "Elo Tech",
+					"foto": "https://nos.wjv-1.neo.id/bazaraid/bazara/static/shop.png",
+					"deskripsi": "Tas",
+					"alamat": "02b22496-334b-4e64-a53b-8ede125f1974",
+					"verified": false,
+					"rating": "0.00",
+					"official": false
+				},
+				"nama": "Samsung Galaxy A52s 5G",
+				"foto1": "https://asset.kompas.com/crops/5YjcMGQPf9McNaeFGyma2ydO1eM=/67x0:1705x1092/750x500/data/photo/2021/08/03/6108dd819c980.jpg",
+				"kategori": {
+					"id": "c7655be4-511e-4925-9176-730421e00789",
+					"nama": "Lainnya"
+				},
+				"harga": "6349000",
+				"tersedia": 2,
+				"kondisi": "Baru",
+				"deskripsi": "Warna biru",
+				"official": false,
+				"berat": "1.00",
+				"rating": null,
+				"terjual": 0
+			},
+			{
+				"id": "5",
+				"toko": {
+					"id": "f05bd500-d294-4a57-8d81-2717f2695b00",
+					"pemilik": {
+						"nama": "Esti Mulyaningtyas",
+						"jenis_kelamin": 2,
+						"foto": "",
+						"no_hp": "nomor HP 1",
+						"alamat": "Jl. Anjasmoro 30 \r\nOro Oro dowo \r\nKota Surabaya",
+						"kota": "eaaba388-4238-4502-bcce-35910b69d296",
+						"tgl_lahir": "17/05/1969",
+						"catatan": "Manager property"
+					},
+					"nama": "Gheashop",
+					"foto": "https://nos.wjv-1.neo.id/bazaraid/bazara/static/shop.png",
+					"deskripsi": "Menjual rumah d daerah Kepanjen Kab Surabaya",
+					"alamat": "32c8cf82-d927-4a85-9809-e30fd5617b55",
+					"verified": false,
+					"rating": "5.00",
+					"official": false
+				},
+				"nama": "Vintage L L Beans Colorful Plaid Flanel shirt",
+				"foto1": "https://cdn-fsly.yottaa.net/5be1b3602bb0ac02725188eb/o~f_webp/v~4b.394.0.0/https://www.kingsize.com/dw/image/v2/BBKT_PRD/on/demandware.static/-/Sites-masterCatalog_KingSizeDirect/default/dwd6266c55/images/alternate/1179_13206_ma_0004.jpg?sw=556&sh=680&sm=fit",
+				"kategori": {
+					"id": "c7655be4-511e-4925-9176-730421e00789",
+					"nama": "Lainnya"
+				},
+				"harga": "340000",
+				"tersedia": 10,
+				"kondisi": "Baru",
+				"deskripsi": "Perum cempaka indah berada d dalam area keramaian d Kepanjen kabupaten Surabaya.\r\nKawasan sdh ramai penghuni",
+				"official": false,
+				"berat": "0.00",
+				"rating": null,
+				"terjual": 0
+			},
+			{
+				"id": "6",
+				"toko": {
+					"id": "0a4c5ca4-95bc-40b8-a4da-34babea9d6ff",
+					"pemilik": {
+						"nama": "Ita Puspita",
+						"jenis_kelamin": null,
+						"foto": "",
+						"no_hp": "nomor HP 2",
+						"alamat": "Jl. Mulyodadi Gg. Kyai kasim! No 43A Jetak Lor\r\nDesa Mulyiagung Kec. dau Kab. Surabaya",
+						"kota": "eaaba388-4238-4502-bcce-35910b69d296",
+						"tgl_lahir": "04/05/1979",
+						"catatan": "Onlineshoper"
+					},
+					"nama": "Elo Tech",
+					"foto": "https://nos.wjv-1.neo.id/bazaraid/bazara/static/shop.png",
+					"deskripsi": "Tas",
+					"alamat": "02b22496-334b-4e64-a53b-8ede125f1974",
+					"verified": false,
+					"rating": "0.00",
+					"official": false
+				},
+				"nama": "Samsung Galaxy A52s 5G",
+				"foto1": "https://asset.kompas.com/crops/5YjcMGQPf9McNaeFGyma2ydO1eM=/67x0:1705x1092/750x500/data/photo/2021/08/03/6108dd819c980.jpg",
+				"kategori": {
+					"id": "c7655be4-511e-4925-9176-730421e00789",
+					"nama": "Lainnya"
+				},
+				"harga": "6349000",
+				"tersedia": 2,
+				"kondisi": "Baru",
+				"deskripsi": "Warna biru",
+				"official": false,
+				"berat": "1.00",
+				"rating": null,
+				"terjual": 0
+			}
+		],
+		"toko_populer": [
+			{
+				"id": "1",
 				"pemilik": {
-					"nama": "Ita Puspita",
+					"nama": "Muhammad Sun Haji",
 					"jenis_kelamin": null,
 					"foto": "",
-					"no_hp": "nomor HP 2",
-					"alamat": "Jl. Mulyodadi Gg. Kyai kasim! No 43A Jetak Lor\r\nDesa Mulyiagung Kec. dau Kab. Surabaya",
-					"kota": "eaaba388-4238-4502-bcce-35910b69d296",
-					"tgl_lahir": "04/05/1979",
-					"catatan": "Onlineshoper"
+					"no_hp": "nomor HP 5",
+					"alamat": "",
+					"kota": "004c0f14-86c5-42a0-a411-b32e07d9259d",
+					"tgl_lahir": null,
+					"catatan": ""
 				},
-				"nama": "Elo Tech",
-				"foto": "https://nos.wjv-1.neo.id/bazaraid/bazara/static/shop.png",
-				"deskripsi": "Tas",
-				"alamat": "02b22496-334b-4e64-a53b-8ede125f1974",
+				"nama": "Maduin Aja",
+				"foto": "https://png.pngtree.com/png-clipart/20190903/original/pngtree-store-icon-png-image_4419850.jpg",
+				"deskripsi": "A",
+				"alamat": "ee58b13f-baba-4880-b239-17f7ddbe37e8",
 				"verified": false,
-				"rating": "0.00",
+				"rating": "4.6",
 				"official": false
 			},
-			"nama": "Samsung Galaxy A52s 5G",
-			"foto1": "https://asset.kompas.com/crops/5YjcMGQPf9McNaeFGyma2ydO1eM=/67x0:1705x1092/750x500/data/photo/2021/08/03/6108dd819c980.jpg",
-			"kategori": {
-				"id": "c7655be4-511e-4925-9176-730421e00789",
-				"nama": "Lainnya"
-			},
-			"harga": "6349000",
-			"tersedia": 2,
-			"kondisi": "Baru",
-			"deskripsi": "Warna biru",
-			"official": false,
-			"berat": "1.00",
-			"rating": null,
-			"terjual": 0
-		},
-		{
-			"id": "3",
-			"toko": {
-				"id": "f05bd500-d294-4a57-8d81-2717f2695b00",
+			{
+				"id": "2",
 				"pemilik": {
-					"nama": "Esti Mulyaningtyas",
-					"jenis_kelamin": 2,
-					"foto": "",
-					"no_hp": "nomor HP 1",
-					"alamat": "Jl. Anjasmoro 30 \r\nOro Oro dowo \r\nKota Surabaya",
-					"kota": "eaaba388-4238-4502-bcce-35910b69d296",
-					"tgl_lahir": "17/05/1969",
-					"catatan": "Manager property"
-				},
-				"nama": "Gheashop",
-				"foto": "https://nos.wjv-1.neo.id/bazaraid/bazara/static/shop.png",
-				"deskripsi": "Menjual rumah d daerah Kepanjen Kab Surabaya",
-				"alamat": "32c8cf82-d927-4a85-9809-e30fd5617b55",
-				"verified": false,
-				"rating": "5.00",
-				"official": false
-			},
-			"nama": "Vintage L L Beans Colorful Plaid Flanel shirt",
-			"foto1": "https://cdn-fsly.yottaa.net/5be1b3602bb0ac02725188eb/o~f_webp/v~4b.394.0.0/https://www.kingsize.com/dw/image/v2/BBKT_PRD/on/demandware.static/-/Sites-masterCatalog_KingSizeDirect/default/dwd6266c55/images/alternate/1179_13206_ma_0004.jpg?sw=556&sh=680&sm=fit",
-			"kategori": {
-				"id": "c7655be4-511e-4925-9176-730421e00789",
-				"nama": "Lainnya"
-			},
-			"harga": "340000",
-			"tersedia": 10,
-			"kondisi": "Baru",
-			"deskripsi": "Perum cempaka indah berada d dalam area keramaian d Kepanjen kabupaten Surabaya.\r\nKawasan sdh ramai penghuni",
-			"official": false,
-			"berat": "0.00",
-			"rating": null,
-			"terjual": 0
-		},
-		{
-			"id": "4",
-			"toko": {
-				"id": "0a4c5ca4-95bc-40b8-a4da-34babea9d6ff",
-				"pemilik": {
-					"nama": "Ita Puspita",
+					"nama": "Sagaf Basry",
 					"jenis_kelamin": null,
 					"foto": "",
-					"no_hp": "nomor HP 2",
-					"alamat": "Jl. Mulyodadi Gg. Kyai kasim! No 43A Jetak Lor\r\nDesa Mulyiagung Kec. dau Kab. Surabaya",
-					"kota": "eaaba388-4238-4502-bcce-35910b69d296",
-					"tgl_lahir": "04/05/1979",
-					"catatan": "Onlineshoper"
+					"no_hp": "nomor HP 6",
+					"alamat": "",
+					"kota": "001d35cb-8f35-4cd5-9db8-4c2db3cc369d",
+					"tgl_lahir": null,
+					"catatan": ""
 				},
-				"nama": "Elo Tech",
-				"foto": "https://nos.wjv-1.neo.id/bazaraid/bazara/static/shop.png",
-				"deskripsi": "Tas",
-				"alamat": "02b22496-334b-4e64-a53b-8ede125f1974",
+				"nama": "Maju Jaya",
+				"foto": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/70f7d800-e089-44c5-8d2c-aae8f7111278/dcdp6t3-7740d6a8-7962-47d8-958e-02b3af0416c0.jpg/v1/fill/w_935,h_855,q_70,strp/online_store_logo_by_creative_p_dcdp6t3-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzcwZjdkODAwLWUwODktNDRjNS04ZDJjLWFhZThmNzExMTI3OFwvZGNkcDZ0My03NzQwZDZhOC03OTYyLTQ3ZDgtOTU4ZS0wMmIzYWYwNDE2YzAuanBnIiwiaGVpZ2h0IjoiPD05MzciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC83MGY3ZDgwMC1lMDg5LTQ0YzUtOGQyYy1hYWU4ZjcxMTEyNzhcL2NyZWF0aXZlLXAtNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0.iPdw7pn49iMs32m8QAmPq1LdxRJ8dfJPOF381v2oWGs",
+				"deskripsi": "A",
+				"alamat": "d2fde1a8-fd79-4fab-8ce6-ebf01a6f4a78",
 				"verified": false,
-				"rating": "0.00",
+				"rating": 4.1,
 				"official": false
-			},
-			"nama": "Samsung Galaxy A52s 5G",
-			"foto1": "https://asset.kompas.com/crops/5YjcMGQPf9McNaeFGyma2ydO1eM=/67x0:1705x1092/750x500/data/photo/2021/08/03/6108dd819c980.jpg",
-			"kategori": {
-				"id": "c7655be4-511e-4925-9176-730421e00789",
-				"nama": "Lainnya"
-			},
-			"harga": "6349000",
-			"tersedia": 2,
-			"kondisi": "Baru",
-			"deskripsi": "Warna biru",
-			"official": false,
-			"berat": "1.00",
-			"rating": null,
-			"terjual": 0
-		},
-		{
-			"id": "5",
-			"toko": {
-				"id": "f05bd500-d294-4a57-8d81-2717f2695b00",
-				"pemilik": {
-					"nama": "Esti Mulyaningtyas",
-					"jenis_kelamin": 2,
-					"foto": "",
-					"no_hp": "nomor HP 1",
-					"alamat": "Jl. Anjasmoro 30 \r\nOro Oro dowo \r\nKota Surabaya",
-					"kota": "eaaba388-4238-4502-bcce-35910b69d296",
-					"tgl_lahir": "17/05/1969",
-					"catatan": "Manager property"
-				},
-				"nama": "Gheashop",
-				"foto": "https://nos.wjv-1.neo.id/bazaraid/bazara/static/shop.png",
-				"deskripsi": "Menjual rumah d daerah Kepanjen Kab Surabaya",
-				"alamat": "32c8cf82-d927-4a85-9809-e30fd5617b55",
-				"verified": false,
-				"rating": "5.00",
-				"official": false
-			},
-			"nama": "Vintage L L Beans Colorful Plaid Flanel shirt",
-			"foto1": "https://cdn-fsly.yottaa.net/5be1b3602bb0ac02725188eb/o~f_webp/v~4b.394.0.0/https://www.kingsize.com/dw/image/v2/BBKT_PRD/on/demandware.static/-/Sites-masterCatalog_KingSizeDirect/default/dwd6266c55/images/alternate/1179_13206_ma_0004.jpg?sw=556&sh=680&sm=fit",
-			"kategori": {
-				"id": "c7655be4-511e-4925-9176-730421e00789",
-				"nama": "Lainnya"
-			},
-			"harga": "340000",
-			"tersedia": 10,
-			"kondisi": "Baru",
-			"deskripsi": "Perum cempaka indah berada d dalam area keramaian d Kepanjen kabupaten Surabaya.\r\nKawasan sdh ramai penghuni",
-			"official": false,
-			"berat": "0.00",
-			"rating": null,
-			"terjual": 0
-		},
-		{
-			"id": "6",
-			"toko": {
-				"id": "0a4c5ca4-95bc-40b8-a4da-34babea9d6ff",
-				"pemilik": {
-					"nama": "Ita Puspita",
-					"jenis_kelamin": null,
-					"foto": "",
-					"no_hp": "nomor HP 2",
-					"alamat": "Jl. Mulyodadi Gg. Kyai kasim! No 43A Jetak Lor\r\nDesa Mulyiagung Kec. dau Kab. Surabaya",
-					"kota": "eaaba388-4238-4502-bcce-35910b69d296",
-					"tgl_lahir": "04/05/1979",
-					"catatan": "Onlineshoper"
-				},
-				"nama": "Elo Tech",
-				"foto": "https://nos.wjv-1.neo.id/bazaraid/bazara/static/shop.png",
-				"deskripsi": "Tas",
-				"alamat": "02b22496-334b-4e64-a53b-8ede125f1974",
-				"verified": false,
-				"rating": "0.00",
-				"official": false
-			},
-			"nama": "Samsung Galaxy A52s 5G",
-			"foto1": "https://asset.kompas.com/crops/5YjcMGQPf9McNaeFGyma2ydO1eM=/67x0:1705x1092/750x500/data/photo/2021/08/03/6108dd819c980.jpg",
-			"kategori": {
-				"id": "c7655be4-511e-4925-9176-730421e00789",
-				"nama": "Lainnya"
-			},
-			"harga": "6349000",
-			"tersedia": 2,
-			"kondisi": "Baru",
-			"deskripsi": "Warna biru",
-			"official": false,
-			"berat": "1.00",
-			"rating": null,
-			"terjual": 0
-		}
-	],
-	"toko_populer": [
-		{
-			"id": "1",
-			"pemilik": {
-				"nama": "Muhammad Sun Haji",
-				"jenis_kelamin": null,
-				"foto": "",
-				"no_hp": "nomor HP 5",
-				"alamat": "",
-				"kota": "004c0f14-86c5-42a0-a411-b32e07d9259d",
-				"tgl_lahir": null,
-				"catatan": ""
-			},
-			"nama": "Maduin Aja",
-			"foto": "https://png.pngtree.com/png-clipart/20190903/original/pngtree-store-icon-png-image_4419850.jpg",
-			"deskripsi": "A",
-			"alamat": "ee58b13f-baba-4880-b239-17f7ddbe37e8",
-			"verified": false,
-			"rating": "4.6",
-			"official": false
-		},
-		{
-			"id": "2",
-			"pemilik": {
-				"nama": "Sagaf Basry",
-				"jenis_kelamin": null,
-				"foto": "",
-				"no_hp": "nomor HP 6",
-				"alamat": "",
-				"kota": "001d35cb-8f35-4cd5-9db8-4c2db3cc369d",
-				"tgl_lahir": null,
-				"catatan": ""
-			},
-			"nama": "Maju Jaya",
-			"foto": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/70f7d800-e089-44c5-8d2c-aae8f7111278/dcdp6t3-7740d6a8-7962-47d8-958e-02b3af0416c0.jpg/v1/fill/w_935,h_855,q_70,strp/online_store_logo_by_creative_p_dcdp6t3-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzcwZjdkODAwLWUwODktNDRjNS04ZDJjLWFhZThmNzExMTI3OFwvZGNkcDZ0My03NzQwZDZhOC03OTYyLTQ3ZDgtOTU4ZS0wMmIzYWYwNDE2YzAuanBnIiwiaGVpZ2h0IjoiPD05MzciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC83MGY3ZDgwMC1lMDg5LTQ0YzUtOGQyYy1hYWU4ZjcxMTEyNzhcL2NyZWF0aXZlLXAtNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0.iPdw7pn49iMs32m8QAmPq1LdxRJ8dfJPOF381v2oWGs",
-			"deskripsi": "A",
-			"alamat": "d2fde1a8-fd79-4fab-8ce6-ebf01a6f4a78",
-			"verified": false,
-			"rating": 4.1,
-			"official": false
-		}
-	]
+			}
+		]
+	}
 }
