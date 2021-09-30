@@ -1,0 +1,50 @@
+{
+	"products": [
+		{
+			"id": 1,
+			"name": "Vintage L L Beans Colorful Plaid Flanel shirt",
+			"price": "340000",
+			"store-name": "Gheashop",
+			"city": "KOTA PONTIANAK",
+			"img_url": "https://cdn-fsly.yottaa.net/5be1b3602bb0ac02725188eb/o~f_webp/v~4b.394.0.0/https://www.kingsize.com/dw/image/v2/BBKT_PRD/on/demandware.static/-/Sites-masterCatalog_KingSizeDirect/default/dwd6266c55/images/alternate/1179_13206_ma_0004.jpg?sw=556&sh=680&sm=fit"
+		},
+		{
+			"id": 2,
+			"name": "Samsung Galaxy A52s 5G",
+			"price": "6349000",
+			"store-name": "Elo Tech",
+			"city": "KOTA PALANGKARAYA",
+			"img_url": "https://asset.kompas.com/crops/5YjcMGQPf9McNaeFGyma2ydO1eM=/67x0:1705x1092/750x500/data/photo/2021/08/03/6108dd819c980.jpg"
+		}
+	],
+	"stores": [
+		{
+			"id": 1,
+			"name": "Maduin Aja",
+			"city": "KOTA SAMARINDA",
+			"rating": 4.6,
+			"img_url": "https://png.pngtree.com/png-clipart/20190903/original/pngtree-store-icon-png-image_4419850.jpg"
+		},
+		{
+			"id": 2,
+			"name": "Maju Jaya",
+			"city": "KOTA PONTIANAK",
+			"rating": 4.1,
+			"img_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/70f7d800-e089-44c5-8d2c-aae8f7111278/dcdp6t3-7740d6a8-7962-47d8-958e-02b3af0416c0.jpg/v1/fill/w_935,h_855,q_70,strp/online_store_logo_by_creative_p_dcdp6t3-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzcwZjdkODAwLWUwODktNDRjNS04ZDJjLWFhZThmNzExMTI3OFwvZGNkcDZ0My03NzQwZDZhOC03OTYyLTQ3ZDgtOTU4ZS0wMmIzYWYwNDE2YzAuanBnIiwiaGVpZ2h0IjoiPD05MzciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC83MGY3ZDgwMC1lMDg5LTQ0YzUtOGQyYy1hYWU4ZjcxMTEyNzhcL2NyZWF0aXZlLXAtNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0.iPdw7pn49iMs32m8QAmPq1LdxRJ8dfJPOF381v2oWGs"
+		}
+	],
+	"users": [
+		{
+			"id": 1,
+			"name": "Giffari"
+		},
+		{
+			"id": 2,
+			"name": "Kurni"
+		},
+		{
+			"id": 3,
+			"name": "Dodi"
+		}
+	]
+}
