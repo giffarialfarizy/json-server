@@ -31,27 +31,27 @@
         "id": "3",
         "toko": {
           "id": "f05bd500-d294-4a57-8d81-2717f2695b00",
-          "nama": "Gheashop",
+          "nama": "Oleole Banjar",
           "verified": false,
           "official": false,
-          "kota": "KOTA PALANGKARAYA"
+          "kota": "KOTA BANJARMASIN"
         },
-        "nama": "Vintage L L Beans Colorful Plaid Flanel shirt",
-        "foto": "https://cdn-fsly.yottaa.net/5be1b3602bb0ac02725188eb/o~f_webp/v~4b.394.0.0/https://www.kingsize.com/dw/image/v2/BBKT_PRD/on/demandware.static/-/Sites-masterCatalog_KingSizeDirect/default/dwd6266c55/images/alternate/1179_13206_ma_0004.jpg?sw=556&sh=680&sm=fit",
-        "harga": "340000"
+        "nama": "Banjar Lam Cake",
+        "foto": "https://lh3.googleusercontent.com/proxy/_aS8jaQdvVxy5ZSsnJLqk_GeutkddSQKz-d4Z89jNLN_zyDZ73dythYoJ8YIUnBfCz1Baakozj8po8670nMxUeS7J0Yg_o3tA4TJJ3OS39EkPq0O",
+        "harga": "85000"
       },
       {
         "id": "4",
         "toko": {
           "id": "0a4c5ca4-95bc-40b8-a4da-34babea9d6ff",
-          "nama": "Elo Tech",
+          "nama": "Fam Fresh",
           "verified": false,
           "official": false,
-          "kota": "KOTA BANJARMASIN"
+          "kota": "KOTA PALANGKARAYA"
         },
-        "nama": "Samsung Galaxy A52s 5G",
-        "foto": "https://asset.kompas.com/crops/5YjcMGQPf9McNaeFGyma2ydO1eM=/67x0:1705x1092/750x500/data/photo/2021/08/03/6108dd819c980.jpg",
-        "harga": "6349000"
+        "nama": "Sembako Paket Jumbo",
+        "foto": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//87/MTA-3164270/indomie_sembako-paket-jumbo-3_full02.jpg",
+        "harga": "225000"
       },
       {
         "id": "5",
@@ -86,7 +86,7 @@
         "nama": "Maduin Aja",
         "kota": "KOTA SAMARINDA",
         "foto": "https://www.logoshuffle.com/wp-content/uploads/2019/05/46c608f3-6f69-498f-8c9f-1be65d2e69fd.png",
-        "rating": 4.9,
+        "rating": 4.8,
         "verified": false,
         "official": false
       },
@@ -104,7 +104,7 @@
         "nama": "Gerai Lubis",
         "kota": "KOTA BANJARMASIN",
         "foto": "https://www.logoshuffle.com/wp-content/uploads/2019/05/6ed59110-e5b0-41a3-bd4c-2037e7c7447f.png",
-        "rating": 4.3,
+        "rating": 3.7,
         "verified": false,
         "official": false
       },
@@ -113,7 +113,7 @@
         "nama": "Irianti Shop",
         "kota": "KOTA BANJARBARU",
         "foto": "https://app.logoshuffle.com/logo/thumb/71561854-1346-4ea5-83d7-078164efcfc8?sz=300",
-        "rating": 3.9,
+        "rating": 3.2,
         "verified": false,
         "official": false
       },
@@ -122,16 +122,16 @@
         "nama": "Yume Shop",
         "kota": "KOTA BALIKPAPAN",
         "foto": "https://app.logoshuffle.com/logo/thumb/04d11e63-d86d-4fa1-9677-5d635971d9da?sz=300",
-        "rating": 4.5,
+        "rating": 5,
         "verified": false,
         "official": false
       },
       {
         "id": "6",
-        "nama": "Madiun Shop",
-        "kota": "KOTA TANJING SELOR",
+        "nama": "Toko Rempah",
+        "kota": "KOTA TANJUNG SELOR",
         "foto": "https://app.logoshuffle.com/logo/thumb/a031ed54-d76b-4fa8-8d3a-18b63e5ad760?sz=300",
-        "rating": 3.4,
+        "rating": 2.9,
         "verified": false,
         "official": false
       }
